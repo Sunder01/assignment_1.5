@@ -1,0 +1,7 @@
+1.Hadoop can be thought of as a set of open source programs and procedures .they are free for anyone to use or modify,
+with a few exceptions,which anyone can use it for big data operations.
+2.Hadoop Frameworks allows for distributed processing of large data sets across clusters of commodity computers using a
+simple programming model. Hadoop framework on the principle of Map-reduce.
+3.The amount of data is large
+   they are not in a structure
+   The normal rdbms cannot handle such kind of data 
